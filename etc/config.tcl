@@ -41,7 +41,7 @@ set homedir		/usr/local/ns
 set bindir		${homedir}/bin
 
 # Are we runnng behind a proxy?
-set proxy_mode          false;
+set proxy_mode          true
 
 
 # Which database do you want? postgres or oracle
